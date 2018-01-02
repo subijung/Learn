@@ -3,5 +3,8 @@ public class Exception1 {
         if (args.length == 0) {
             throw new Exception();
         }
+        else {
+            System.out.println("집가고싶다.");
+        }
     }
 }
